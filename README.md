@@ -47,7 +47,7 @@ An online cinema ticketing system allows registered users to browse movies and b
 - **Visitor** — unregistered user seeking access
 
 ### Diagram
-![Class Diagram](diagrams/class-diagram.png)
+![Class Diagram](Class-Diagram.png)
 
 ---
 
@@ -66,7 +66,7 @@ The ATM machine process involves four components: ATM Interface, ATM Control, Tr
 - **:Printer** — prints receipts
 
 ### Diagram
-![Sequence Diagram](diagrams/sequence-diagram.png)
+![Sequence Diagram](Sequence Diagram.png)
 
 ---
 
@@ -87,7 +87,7 @@ When a user inserts a card into the ATM, the machine begins reading it. If the c
 | Eject card | Session ends and card is returned to user |
 
 ### Diagram
-![State Machine Diagram](diagrams/state-machine-diagram.png)
+![State Machine Diagram](State Machine Diagram.png)
 
 ---
 
@@ -109,7 +109,7 @@ A travel ticket booking system serves three actors: Admin, Employee, and User. T
 - `book ticket` **<<include>>** `cancel ticket` — cancellation is always available when booking
 
 ### Diagram
-![Use Case Diagram](diagrams/use-case-diagram.png)
+![Use Case Diagram](Use Case Diagram.png)
 
 ---
 
